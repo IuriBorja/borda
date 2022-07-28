@@ -1,0 +1,21 @@
+.border {
+ border: 10px solid;
+}
+
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    background-color:rgb(85, 226, 85);
+    border: 15px dashed black;
+    border-radius: 50%;
+}
+
+.quadrado2 {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(243, 243, 36);
+    border-radius: 50%;
+}
+
+
